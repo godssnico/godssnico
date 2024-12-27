@@ -4,7 +4,7 @@ I'm a passionate developer who loves building cool and interactive web applicati
 
 ## 🚀 Technologies & Tools
 
-- **Languages**: Python, HTML Vanilla, Vanilla JavaScript, Tailwind CSS, CSS, Node.js
+- **Languages**: Python, Lua, HTML Vanilla, Vanilla JavaScript, Tailwind CSS, CSS, Node.js
 - **Frameworks & Libraries**: React, Vue.js (learning), Express.js
 - **Databases**: MySQL
 - **Version Control**: Git, GitHub
