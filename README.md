@@ -1,5 +1,3 @@
-# ![Skailar Logo](https://cdn.skailar.ac/v1/assets/img/logo.png)
-
 # Hi there! 👋 I'm @godsnico
 
 I'm a passionate developer who loves building cool and interactive web applications. I enjoy working with various technologies and constantly strive to learn new skills to improve my craft.
