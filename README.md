@@ -18,7 +18,7 @@ I'm a passionate developer who loves building cool and interactive web applicati
 
 ## 💻 My Projects
 
-- **[Skailar.ac](https://github.com/godsnico/Skailar.ac)** - A powerful anti-cheat scanner for video games. It analyzes system processes and behaviors to detect cheating tools and hacks, helping to keep gaming communities safe and fair.
+- **[Skailar.ac](https://skailar.ac)** - A powerful anti-cheat scanner for video games. It analyzes system processes and behaviors to detect cheating tools and hacks, helping to keep gaming communities safe and fair.
 
 ## 📫 How to Reach Me
 
