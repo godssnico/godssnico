@@ -14,7 +14,7 @@ I'm a passionate developer who loves building cool and interactive web applicati
 
 - React
 - Vue.js
-- [Add any other technology or skill you're learning]
+- GO
 
 ## 💻 My Projects
 
