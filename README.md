@@ -8,7 +8,6 @@ I'm a passionate developer who loves building cool and interactive web applicati
 - **Frameworks & Libraries**: React, Vue.js (learning), Express.js
 - **Databases**: MySQL
 - **Version Control**: Git, GitHub
-- **Others**: [Add other tools or technologies you use, e.g., Docker, Firebase, etc.]
 
 ## 🌱 Currently Learning
 
