@@ -1,7 +1,3 @@
-Sure! Here's the updated version of your README:
-
----
-
 # Hi there! 👋 I'm @godsnico
 
 I'm a passionate developer who loves building cool and interactive web applications. I enjoy working with various technologies and constantly strive to learn new skills to improve my craft.
