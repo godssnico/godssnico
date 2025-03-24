@@ -12,7 +12,7 @@ I'm a passionate developer who loves building cool and interactive web applicati
 ## 🌱 Currently Learning
 
 - React
-- Vue.js
+- Next.js
 - GO
 
 ## 💻 My Projects
