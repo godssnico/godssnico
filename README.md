@@ -6,11 +6,10 @@ I'm a passionate developer who loves building cool and interactive web applicati
 
 ## 💻 My Projects
 
-- CheatPrevention - A platform designed to prevent cheating in digital platforms. It offers advanced tools for detecting cheating behaviors and enhancing fairness and integrity.
+- CheatPrevention (Closed) - A platform designed to prevent cheating in digital platforms. It offers advanced tools for detecting cheating behaviors and enhancing fairness and integrity.
 
 ## 📫 How to Reach Me
 
-- Email: [nico@cheatprevention.com](mailto:nico@cheatprevention.com)
 - Discord: [Click here to message me on Discord](https://discord.com/users/1190130665413431356)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
